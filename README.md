@@ -1,0 +1,1 @@
+Criação do website em HTML e CSS pelo curso onde aprendi sobre as diferenças entre ID e CLASS em css, Box Model, Grouping tags, Variáveis em css, Responsividade para sites, a escolha de paleta de cores e como aplica-las para determinados sites.
